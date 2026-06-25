@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36530.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VNPR_WinForms_Application", "VNPR_WinForms_Application\VNPR_WinForms_Application.csproj", "{9B3B8423-383A-49C0-AD47-852CBCBD33AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3B8423-383A-49C0-AD47-852CBCBD33AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3B8423-383A-49C0-AD47-852CBCBD33AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3B8423-383A-49C0-AD47-852CBCBD33AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3B8423-383A-49C0-AD47-852CBCBD33AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D976C1E2-3196-4C37-B26A-AF2E6101080C}
+	EndGlobalSection
+EndGlobal
